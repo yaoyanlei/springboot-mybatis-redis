@@ -6,6 +6,10 @@ import com.dangdang.ddframe.job.api.ShardingContext;
 import com.dangdang.ddframe.job.api.dataflow.DataflowJob;
 import com.neo.entity.Moment;
 
+/**
+ * dataflow任务
+ * @author sinky
+ */
 public class DataflowJobExample implements DataflowJob<Moment> {
 
 	@Override
