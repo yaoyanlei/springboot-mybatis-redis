@@ -11,6 +11,11 @@ import com.neo.common.Result;
 import com.neo.entity.Moment;
 import com.neo.service.MomentService;
 
+/**
+ **   简单controller
+ * @author sinky
+ *
+ */
 @RestController
 @RequestMapping("/pet")
 public class MomentController {
@@ -60,11 +65,5 @@ public class MomentController {
     	System.err.println(moment);
     	return moment;
     }
-   
-   
-    
-    
-   
-
 
 }
