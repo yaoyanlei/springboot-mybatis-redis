@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.neo.mapper.UserMapper">
+
+	<select id="selectUsers" resultType="com.neo.entity.UserDomain">
+			SELECT 
+				user_Id userId,
+	 			user_Name userName,
+	 			user_City userCity,
+				user_Age userAge,
+				create_Date createDate
+			FROM sys_favuser
+	</select>
+	
+	
+	<select id="selectUser" resultType="com.neo.entity.UserDomain" >
+			SELECT 
+				user_Id userId,
+	 			user_Name userName,
+	 			user_City userCity,
+				user_Age userAge,
+				create_Date createDate
+			FROM sys_favuser
+			WHERE user_Name = #{userName}#
+	</select>
+	
+
+</mapper>

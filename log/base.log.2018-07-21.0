@@ -1,0 +1,110 @@
+2018-07-21 17:40:55,759 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 3872 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 17:40:55,762 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 17:40:55,765 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 17:41:01,470 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 6.039 seconds (JVM running for 6.712)
+2018-07-21 19:00:31,455 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 14428 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 19:00:31,460 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 19:00:31,463 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 19:01:52,051 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 21384 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 19:01:52,056 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 19:01:52,058 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 19:02:38,980 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 6912 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 19:02:38,984 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 19:02:38,985 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 19:04:22,576 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 21764 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 19:04:22,580 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 19:04:22,583 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 19:04:28,037 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.78 seconds (JVM running for 6.357)
+2018-07-21 19:07:22,243 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM sys_favuser 
+2018-07-21 19:07:22,263 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-07-21 19:07:22,361 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-07-21 19:07:22,368 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT user_Id userId, user_Name userName, user_City userCity, user_Age userAge, create_Date createDate FROM sys_favuser LIMIT ? 
+2018-07-21 19:07:22,369 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2018-07-21 19:07:22,394 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-07-21 21:53:53,302 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 9532 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 21:53:53,310 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 21:53:53,313 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 21:53:58,915 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.951 seconds (JVM running for 6.593)
+2018-07-21 21:55:06,674 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 6864 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 21:55:06,679 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 21:55:06,682 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 21:56:23,952 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 23264 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 21:56:23,958 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 21:56:23,961 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 21:56:29,638 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 6.01 seconds (JVM running for 6.606)
+2018-07-21 22:05:16,049 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 23248 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 22:05:16,054 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 22:05:16,057 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 22:05:21,371 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.653 seconds (JVM running for 6.237)
+2018-07-21 22:05:47,405 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM sys_favuser 
+2018-07-21 22:05:47,426 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-07-21 22:30:45,339 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 13148 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 22:30:45,344 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 22:30:45,346 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 22:31:21,787 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 36.747 seconds (JVM running for 37.289)
+2018-07-21 22:33:27,339 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 5256 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 22:33:27,344 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 22:33:27,347 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 22:33:33,271 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 6.338 seconds (JVM running for 6.91)
+2018-07-21 22:38:52,410 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 4452 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 22:38:52,415 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 22:38:52,418 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 22:38:58,052 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.979 seconds (JVM running for 6.546)
+2018-07-21 22:40:07,062 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 23484 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 22:40:07,066 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 22:40:07,069 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 22:40:13,860 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 7.127 seconds (JVM running for 7.788)
+2018-07-21 22:48:56,111 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 4272 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 22:48:56,116 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 22:48:56,117 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 22:49:00,967 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.177 seconds (JVM running for 5.727)
+2018-07-21 22:52:19,061 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 12328 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 22:52:19,064 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 22:52:19,066 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 22:52:24,239 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.486 seconds (JVM running for 6.05)
+2018-07-21 22:52:39,952 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT user_Id userId, user_Name userName, user_City userCity, user_Age userAge, create_Date createDate FROM sys_favuser WHERE user_Name = #userName# 
+2018-07-21 22:52:39,974 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-07-21 22:55:52,550 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 17036 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 22:55:52,554 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 22:55:52,557 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 22:55:57,408 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.164 seconds (JVM running for 5.719)
+2018-07-21 22:56:09,458 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT user_Id userId, user_Name userName, user_City userCity, user_Age userAge, create_Date createDate FROM sys_favuser WHERE user_Name = ?# 
+2018-07-21 22:56:09,478 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 张三(String)
+2018-07-21 22:56:09,636 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-07-21 23:08:46,481 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 20504 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 23:08:46,485 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 23:08:46,487 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 23:08:51,374 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.197 seconds (JVM running for 5.795)
+2018-07-21 23:09:11,798 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT user_Id userId, user_Name userName, user_City userCity, user_Age userAge, create_Date createDate FROM sys_favuser WHERE user_Name = ?# 
+2018-07-21 23:09:11,817 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 张三(String)
+2018-07-21 23:09:11,831 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-07-21 23:10:00,832 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM sys_favuser 
+2018-07-21 23:10:00,833 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-07-21 23:10:00,900 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-07-21 23:10:00,902 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT user_Id userId, user_Name userName, user_City userCity, user_Age userAge, create_Date createDate FROM sys_favuser LIMIT ? 
+2018-07-21 23:10:00,903 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 2(Integer)
+2018-07-21 23:10:00,907 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-07-21 23:13:38,233 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 4808 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 23:13:38,238 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 23:13:38,241 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 23:13:43,499 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.622 seconds (JVM running for 6.194)
+2018-07-21 23:28:38,434 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 21084 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 23:28:38,440 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 23:28:38,443 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 23:28:43,614 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.489 seconds (JVM running for 6.037)
+2018-07-21 23:28:53,344 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM sys_favuser 
+2018-07-21 23:28:53,364 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-07-21 23:28:53,378 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-07-21 23:28:53,380 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT user_Id userId, user_Name userName, user_City userCity, user_Age userAge, create_Date createDate FROM sys_favuser LIMIT ? 
+2018-07-21 23:28:53,380 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 2(Integer)
+2018-07-21 23:28:53,383 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-07-21 23:29:41,219 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 7392 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-07-21 23:29:41,225 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-21 23:29:41,228 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-21 23:29:46,488 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 5.61 seconds (JVM running for 6.201)
+2018-07-21 23:29:55,404 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM sys_favuser 
+2018-07-21 23:29:55,424 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-07-21 23:29:55,437 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-07-21 23:29:55,439 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT user_Id userId, user_Name userName, user_City userCity, user_Age userAge, create_Date createDate FROM sys_favuser LIMIT ? 
+2018-07-21 23:29:55,439 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 2(Integer)
+2018-07-21 23:29:55,444 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2

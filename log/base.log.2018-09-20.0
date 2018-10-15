@@ -1,0 +1,4 @@
+2018-09-20 09:55:31,462 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 6792 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-20 09:55:31,468 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-20 09:55:31,470 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-20 09:55:41,883 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 27.283 seconds (JVM running for 28.391)

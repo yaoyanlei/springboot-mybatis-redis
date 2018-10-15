@@ -1,0 +1,4 @@
+2018-08-11 16:56:47,617 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 13088 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-08-11 16:56:47,622 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-08-11 16:56:47,624 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-08-11 16:56:55,023 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 23.246 seconds (JVM running for 24.609)

@@ -1,0 +1,138 @@
+2018-09-17 14:19:23,637 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8960 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 14:19:23,646 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 14:19:23,648 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 14:21:03,483 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8200 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 14:21:03,487 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 14:21:03,489 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 14:21:12,049 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.089 seconds (JVM running for 25.899)
+2018-09-17 14:29:42,777 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 7780 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 14:29:42,781 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 14:29:42,783 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 14:29:50,775 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 24.614 seconds (JVM running for 25.591)
+2018-09-17 14:30:36,008 INFO (RequestContext.java:180)- response:null
+2018-09-17 14:46:00,371 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8956 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 14:46:00,377 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 14:46:00,380 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 14:46:09,103 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 24.816 seconds (JVM running for 25.55)
+2018-09-17 14:46:34,202 INFO (RequestContext.java:180)- response:"test success"
+2018-09-17 15:05:14,779 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 1108 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 15:05:14,783 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 15:05:14,785 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 15:05:23,405 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.311 seconds (JVM running for 26.023)
+2018-09-17 15:06:06,572 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[],"limit":1,"next":-1},"msg":"success","status":true}
+2018-09-17 15:07:32,915 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8356 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 15:07:32,920 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 15:07:32,923 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 15:07:41,406 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.166 seconds (JVM running for 25.992)
+2018-09-17 15:07:56,316 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 15:56:12,654 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8524 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 15:56:12,672 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 15:56:12,675 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 15:56:21,661 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.175 seconds (JVM running for 25.905)
+2018-09-17 15:57:09,864 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 15:59:49,492 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 9120 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 15:59:49,496 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 15:59:49,498 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 15:59:58,007 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 24.998 seconds (JVM running for 25.749)
+2018-09-17 16:00:14,268 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 16:14:12,753 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 3844 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 16:14:12,758 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 16:14:12,761 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 16:14:21,102 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.285 seconds (JVM running for 26.124)
+2018-09-17 16:17:44,938 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 16:19:09,762 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 10108 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 16:19:09,766 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 16:19:09,768 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 16:19:19,428 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 26.212 seconds (JVM running for 26.969)
+2018-09-17 16:20:25,166 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 16:27:33,573 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8512 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 16:27:33,577 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 16:27:33,579 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 16:27:42,655 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.75 seconds (JVM running for 26.515)
+2018-09-17 16:28:13,638 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 16:28:44,649 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 16:40:05,641 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 7704 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 16:40:05,646 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 16:40:05,653 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 16:40:14,572 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.404 seconds (JVM running for 26.206)
+2018-09-17 16:40:58,131 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 16:42:28,906 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 5580 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 16:42:28,911 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 16:42:28,914 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 16:42:37,701 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.153 seconds (JVM running for 25.99)
+2018-09-17 16:43:20,211 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 16:52:59,389 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 9456 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 16:52:59,395 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 16:52:59,398 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 16:53:09,142 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 26.042 seconds (JVM running for 26.815)
+2018-09-17 16:53:18,336 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 16:55:38,473 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 9448 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 16:55:38,478 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 16:55:38,480 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 16:55:47,935 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 26.169 seconds (JVM running for 27.003)
+2018-09-17 16:55:59,593 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 16:57:01,572 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 9436 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 16:57:01,576 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 16:57:01,579 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 16:57:11,029 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.42 seconds (JVM running for 26.18)
+2018-09-17 16:57:38,577 INFO (RequestContext.java:180)- response:null
+2018-09-17 17:13:30,381 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8724 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 17:13:30,385 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 17:13:30,387 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 17:14:46,956 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8384 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 17:14:46,960 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 17:14:46,962 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 17:14:55,611 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.203 seconds (JVM running for 26.015)
+2018-09-17 17:21:38,269 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8688 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 17:21:38,273 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 17:21:38,275 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 17:21:47,031 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.109 seconds (JVM running for 25.855)
+2018-09-17 17:22:07,731 INFO (RequestContext.java:180)- response:{"code":0,"data":{"pageCnt":12,"data":[{"moment":{"accessCnt":12232,"momentId":11411},"relatedActivityId":1223,"relatedActivityName":"上海大学校庆","type":5},{"moment":{"accessCnt":88,"momentId":12252},"relatedActivityId":212334,"relatedActivityName":"易居创研中心","type":4}]},"msg":"success","status":true}
+2018-09-17 17:26:06,679 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8924 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 17:26:06,683 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 17:26:06,685 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 17:26:15,936 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.775 seconds (JVM running for 26.538)
+2018-09-17 17:26:37,801 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 17:34:17,079 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8232 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 17:34:17,084 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 17:34:17,086 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 17:34:26,514 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 26.142 seconds (JVM running for 26.932)
+2018-09-17 17:37:04,060 INFO (RequestContext.java:180)- response:{"code":0,"data":{"pageCnt":12,"data":[{"moment":{"accessCnt":12232,"momentId":11411},"relatedActivityId":1223,"relatedActivityName":"上海大学校庆","type":5},{"moment":{"accessCnt":88,"momentId":12252},"relatedActivityId":212334,"relatedActivityName":"易居创研中心","type":4}]},"msg":"success","status":true}
+2018-09-17 17:37:46,421 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 17:38:41,272 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 17:40:13,500 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 7780 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 17:40:13,506 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 17:40:13,509 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 17:40:22,661 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.3 seconds (JVM running for 26.047)
+2018-09-17 17:40:36,042 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 17:40:57,783 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 17:55:22,531 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8028 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 17:55:22,536 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 17:55:22,540 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 17:55:31,402 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.358 seconds (JVM running for 26.13)
+2018-09-17 17:55:44,784 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 18:16:55,353 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8404 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 18:16:55,357 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 18:16:55,359 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 18:17:04,466 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.525 seconds (JVM running for 26.294)
+2018-09-17 18:21:52,950 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 18:22:26,476 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 18:22:38,670 INFO (RequestContext.java:180)- response:{"code":0,"data":{"pageCnt":12,"data":[{"moment":{"accessCnt":12232,"momentId":11411},"relatedActivityId":1223,"relatedActivityName":"上海大学校庆","type":5},{"moment":{"accessCnt":88,"momentId":12252},"relatedActivityId":212334,"relatedActivityName":"易居创研中心","type":4}]},"msg":"success","status":true}
+2018-09-17 19:26:02,790 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 6676 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 19:26:02,794 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 19:26:02,796 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 19:30:52,802 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 8996 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 19:30:52,806 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 19:30:52,808 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 19:31:01,585 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.345 seconds (JVM running for 26.239)
+2018-09-17 19:31:20,647 INFO (RequestContext.java:180)- response:{"code":0,"data":{"pageCnt":12,"data":[{"moment":{"accessCnt":12232,"momentId":11411},"relatedActivityId":1223,"relatedActivityName":"上海大学校庆","type":5},{"moment":{"accessCnt":88,"momentId":12252},"relatedActivityId":212334,"relatedActivityName":"易居创研中心","type":4}]},"msg":"success","status":true}
+2018-09-17 19:31:48,561 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 19:31:53,437 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 19:49:17,547 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 9544 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-09-17 19:49:17,553 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-17 19:49:17,556 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-17 19:49:26,437 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 25.317 seconds (JVM running for 26.163)
+2018-09-17 19:50:32,601 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 19:50:43,868 INFO (RequestContext.java:180)- response:{"code":0,"data":{"cursor":2,"data":[{"moment":{"accessCnt":12232,"momentId":11111},"relatedActivityId":123,"relatedActivityName":"太仓团建","type":1},{"moment":{"accessCnt":88,"momentId":12222},"relatedActivityId":234,"relatedActivityName":"苏州南京","type":2}],"limit":1,"next":1},"msg":"success","status":true}
+2018-09-17 19:51:33,175 INFO (RequestContext.java:180)- response:{"code":0,"data":{"pageCnt":12,"data":[{"moment":{"accessCnt":12232,"momentId":11411},"relatedActivityId":1223,"relatedActivityName":"上海大学校庆","type":5},{"moment":{"accessCnt":88,"momentId":12252},"relatedActivityId":212334,"relatedActivityName":"易居创研中心","type":4}]},"msg":"success","status":true}
+2018-09-17 19:51:47,610 INFO (RequestContext.java:180)- response:{"code":0,"data":{"pageCnt":12,"data":[{"moment":{"accessCnt":12232,"momentId":11411},"relatedActivityId":1223,"relatedActivityName":"上海大学校庆","type":5},{"moment":{"accessCnt":88,"momentId":12252},"relatedActivityId":212334,"relatedActivityName":"易居创研中心","type":4}]},"msg":"success","status":true}

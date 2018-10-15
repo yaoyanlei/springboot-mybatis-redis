@@ -1,0 +1,49 @@
+2018-10-10 10:34:05,540 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on sinky-PC with PID 6264 (D:\Workspace\Eju-test\springboot-mybatis-redis\target\classes started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 10:34:05,547 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 10:34:05,551 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 10:49:57,540 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplicationTests on sinky-PC with PID 1352 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 10:49:57,542 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 10:49:57,549 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 10:50:08,319 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplicationTests in 27.528 seconds (JVM running for 29.597)
+2018-10-10 10:58:54,643 INFO (StartupInfoLogger.java:50)- Starting RedisTest on sinky-PC with PID 7484 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 10:58:54,644 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 10:58:54,646 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 10:59:04,079 INFO (StartupInfoLogger.java:59)- Started RedisTest in 26.379 seconds (JVM running for 28.036)
+2018-10-10 11:10:50,602 INFO (StartupInfoLogger.java:50)- Starting TestMoment on sinky-PC with PID 7280 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 11:10:50,604 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 11:10:50,608 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 11:11:04,582 INFO (StartupInfoLogger.java:59)- Started TestMoment in 29.915 seconds (JVM running for 32.372)
+2018-10-10 11:11:05,600 INFO (MomentAccessAspect.java:35)- 要新增的浏览量:28
+2018-10-10 11:11:05,601 INFO (MomentAccessAspect.java:41)- 请求URI:/pet/moment
+2018-10-10 11:19:19,898 INFO (StartupInfoLogger.java:50)- Starting TestMoment on sinky-PC with PID 5552 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 11:19:19,899 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 11:19:19,902 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 11:19:30,113 INFO (StartupInfoLogger.java:59)- Started TestMoment in 27.106 seconds (JVM running for 28.714)
+2018-10-10 11:19:30,579 INFO (MomentAccessAspect.java:35)- 要新增的浏览量:28
+2018-10-10 11:19:30,580 INFO (MomentAccessAspect.java:41)- 请求URI:/pet/moment
+2018-10-10 11:22:41,021 INFO (StartupInfoLogger.java:50)- Starting TestMoment on sinky-PC with PID 4676 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 11:22:41,023 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 11:22:41,028 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 11:22:50,798 INFO (StartupInfoLogger.java:59)- Started TestMoment in 26.665 seconds (JVM running for 28.25)
+2018-10-10 11:28:59,948 INFO (StartupInfoLogger.java:50)- Starting TestMomentNoAuto on sinky-PC with PID 7584 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 11:28:59,949 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 11:28:59,952 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 11:29:09,578 INFO (StartupInfoLogger.java:59)- Started TestMomentNoAuto in 26.33 seconds (JVM running for 27.958)
+2018-10-10 11:29:10,113 INFO (MomentAccessAspect.java:35)- 要新增的浏览量:28
+2018-10-10 11:29:10,114 INFO (MomentAccessAspect.java:41)- 请求URI:/pet/moment
+2018-10-10 11:42:12,161 INFO (StartupInfoLogger.java:50)- Starting TestMoment on sinky-PC with PID 7224 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 11:42:12,163 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 11:42:12,166 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 11:42:22,124 INFO (StartupInfoLogger.java:59)- Started TestMoment in 26.947 seconds (JVM running for 28.538)
+2018-10-10 11:44:51,184 INFO (StartupInfoLogger.java:50)- Starting TestMoment on sinky-PC with PID 8948 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 11:44:51,186 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 11:44:51,190 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 11:45:01,359 INFO (StartupInfoLogger.java:59)- Started TestMoment in 27.084 seconds (JVM running for 28.625)
+2018-10-10 14:49:30,304 INFO (StartupInfoLogger.java:50)- Starting TestMoment on sinky-PC with PID 9112 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 14:49:30,305 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 14:49:30,311 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 14:49:40,209 INFO (StartupInfoLogger.java:59)- Started TestMoment in 26.525 seconds (JVM running for 28.158)
+2018-10-10 14:51:54,680 INFO (StartupInfoLogger.java:50)- Starting TestMoment on sinky-PC with PID 8196 (started by sinky in D:\Workspace\Eju-test\springboot-mybatis-redis)
+2018-10-10 14:51:54,682 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-10-10 14:51:54,686 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-10-10 14:52:07,187 INFO (StartupInfoLogger.java:59)- Started TestMoment in 28.812 seconds (JVM running for 30.406)

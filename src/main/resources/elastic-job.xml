@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:job="http://www.dangdang.com/schema/ddframe/job"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                        http://www.springframework.org/schema/beans/spring-beans.xsd
+                        http://www.dangdang.com/schema/ddframe/job
+                        http://www.dangdang.com/schema/ddframe/job/job.xsd">
+
+    <job:simple id="mySimpleJob" class="com.neo.job.MySimpleJob" overwrite="true"
+                registry-center-ref="regCenter" cron="0 0/5 * * * ?" sharding-total-count="1" description="简单任务"
+                failover="true" misfire="false"/>
+</beans>

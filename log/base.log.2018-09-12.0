@@ -1,0 +1,46 @@
+2018-09-12 22:30:40,707 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 15304 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 22:30:40,711 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 22:30:40,712 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 22:30:47,879 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 22.108 seconds (JVM running for 22.934)
+2018-09-12 22:42:39,374 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 17228 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 22:42:39,378 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 22:42:39,380 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 22:44:12,724 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 7672 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 22:44:12,727 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 22:44:12,729 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 22:49:58,555 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 4624 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 22:49:58,558 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 22:49:58,560 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 22:51:49,830 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 19328 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 22:51:49,833 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 22:51:49,835 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 22:57:01,346 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 2856 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 22:57:01,350 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 22:57:01,352 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 23:08:48,195 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 664 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 23:08:48,198 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 23:08:48,199 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 23:09:31,666 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 12720 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 23:09:31,669 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 23:09:31,671 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 23:11:48,184 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 9004 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 23:11:48,187 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 23:11:48,189 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 23:17:44,215 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 12424 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 23:17:44,218 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 23:17:44,220 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 23:22:35,120 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 356 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 23:22:35,123 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 23:22:35,125 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 23:23:26,775 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 6172 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 23:23:26,778 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 23:23:26,780 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 23:23:31,474 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 19.041 seconds (JVM running for 19.589)
+2018-09-12 23:32:24,053 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 8692 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 23:32:24,058 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 23:32:24,060 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 23:32:28,990 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 19.192 seconds (JVM running for 19.737)
+2018-09-12 23:42:36,871 INFO (StartupInfoLogger.java:50)- Starting SpringbootMybatisRedisApplication on 这是一台有态度的电脑 with PID 9204 (D:\Workspace\Eclipse-mars\springboot-mybatis-redis\target\classes started by yaoya in D:\Workspace\Eclipse-mars\springboot-mybatis-redis)
+2018-09-12 23:42:36,875 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-09-12 23:42:36,878 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-09-12 23:42:41,762 INFO (StartupInfoLogger.java:59)- Started SpringbootMybatisRedisApplication in 18.558 seconds (JVM running for 19.121)
