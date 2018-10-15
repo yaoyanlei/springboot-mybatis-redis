@@ -30,7 +30,7 @@ public class TestMomentNoAuto extends BaseTest {
     @Before
     public void setupMockMvc() throws Exception {
     	mvc = MockMvcBuilders.webAppContextSetup(context).build();
-    }
+    }   
     
     /**
      *	moment接口测试 权限验证 带参数
